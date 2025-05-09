@@ -1,0 +1,30 @@
+[
+  { "name": "Alumahan", "price": 375.00, "weight": "per 500g", "image": "images/alumahan.jpg" },
+  { "name": "Bangus", "price": 356.50, "weight": "per per kg", "image": "images/bangus.jpg" },
+  { "name": "Asohos", "price": 425.00, "weight": "per 500g", "image": "images/asohos.jpg" },
+  { "name": "Bakoko", "price": 745.00, "weight": "per kg", "image": "images/bakoko.jpg" },
+  { "name": "Bitilya", "price": 395.00, "weight": "per 500g", "image": "images/bitilya.jpg" },
+  { "name": "Dalagang Bukid", "price": 345.00, "weight": "per 500g", "image": "images/dalagang-bukid.jpg" },
+
+  { "name": "Dapa", "price": 795.00, "weight": "per kg", "image": "images/dapa.jpg" },
+  { "name": "Espada", "price": 795.00, "weight": "per kg", "image": "images/espada.jpg" },
+  { "name": "Galunggong", "price": 245.00, "weight": "per 500g", "image": "images/galunggong.jpg" },
+  { "name": "Gindara", "price": 245.00, "weight": "per kg", "image": "images/gindara.jpg" },
+  { "name": "Hasa Hasa", "price": 345.00, "weight": "per 500g", "image": "images/hasa-hasa.jpg" },
+
+  { "name": "Lapu-Lapu Black Genuine", "price": 1250.00, "weight": "per kg", "image": "images/lapu-lapu-black-genuine.jpg" },
+  { "name": "Lato Seaweed", "price": 179.00, "weight": "per 500g", "image": "images/lato-seaweed.jpg" },
+  { "name": "Matambaka", "price": 645.00, "weight": "per kg", "image": "images/matambaka.jpg" },
+  { "name": "Maya Maya", "price": 1275.00, "weight": "per kg", "image": "images/maya-maya.jpg" },
+  { "name": "Pampano", "price": 725.00, "weight": "per kg", "image": "images/pampano.jpg" },
+
+  { "name": "Salay Ginto", "price": 285.00, "weight": "per 500g", "image": "images/salay-ginto.jpg" },
+  { "name": "Samaral", "price": 375.00, "weight": "per 500g", "image": "images/samaral.jpg" },
+  { "name": "Sapsap", "price": 245.00, "weight": "per 500g", "image": "images/sapsap.jpg" },
+  { "name": "Shrimp Jumbo", "price": 725.00, "weight": "per 500g", "image": "images/shrimp-jumbo.jpg" },
+  { "name": "Tahong Small", "price": 219.00, "weight": "per kg", "image": "images/tahong-small.jpg" },
+
+  { "name": "Tawilis", "price": 165.00, "weight": "per 500g", "image": "images/tawilis.jpg" },
+  { "name": "Tilapia Medium/Large", "price": 245.00, "weight": "per kg", "image": "images/tilapia-medium-large.jpg" },
+  { "name": "Yellow Fin", "price": 625.00, "weight": "per kg", "image": "images/yellow-fin.jpg" }
+]
